@@ -1,10 +1,136 @@
-h1 {
-    color: #000000;
-    font-size: 60PX;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-}
 
 body {
-    background-color: #cbceb65b;
+    background-color: rgb(98, 191, 148);
+   margin-left: 140px;
 }
+.header {
+    border-style: solid;
+    border-width: 1px;
+    padding: 5px;
+    margin-right: 1380px;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 60px;
+    color: #575558c4;
+    border-color: #575558c4;
+    
+}
+.navigatie {
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+    border-style: solid;
+    border-color: white;
+    padding: 10px;
+    margin-right: 50px;
+    color: white;
+}
+
+h1 {
+    color: #8c1cf573;
+    font-family: sans-serif;
+    font-size: 70px;
+}
+h2 {
+    color: white;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+ul {
+    color: white;
+    font-size: 25px;
+    list-style-type: square;
+}
+p {
+    color: white;
+    font-size: 25px;
+}
+.woordje {
+    font-weight: bold;
+}
+.algemeen {
+    margin-top: 50px;
+    padding-top: 60px;
+    border-style: solid;
+    border-color: white;
+    padding-bottom: 60px;
+    padding-right: 10px;
+    margin-right: 200px;
+    padding-left: 20px;
+}
+.opleiding {
+    margin-left: 420px;
+    margin-top: 50px;
+    padding-top: 60px;
+    border-style: solid;
+    border-color: white;
+    padding-bottom: 60px;
+    padding-right: 10px;
+    padding-left: 20px;
+}
+.werkervaring {
+    margin-top: 50px;
+    padding-top: 60px;
+    border-style: solid;
+    border-color: white;
+    padding-bottom: 60px;
+    padding-right: 10px;
+    margin-right: 200px;
+    padding-left: 20px;
+}
+.vaardigheden {
+    margin-left: 420px;
+    margin-top: 50px;
+    padding-top: 60px;
+    border-style: solid;
+    border-color: white;
+    padding-bottom: 60px;
+    padding-right: 10px;
+    padding-left: 20px;
+}
+.interesses {
+    margin-top: 50px;
+    padding-top: 60px;
+    border-style: solid;
+    border-color: white;
+    padding-bottom: 60px;
+    padding-right: 10px;
+    margin-right: 200px;
+    padding-left: 20px;
+}
+.toekomst {
+
+    margin-left: 420px;
+    margin-top: 50px;
+    padding-top: 60px;
+    border-style: solid;
+    border-color: white;
+    padding-bottom: 60px;
+    padding-right: 100px;
+    padding-left: 20px;
+}
+
+.container {
+    border-style: solid;
+    border-color: white;
+    margin-top: 50px;
+    margin-left: 15px;
+}
+ 
+}
+.foto-1 {
+    margin-left: 800px;
+    margin-top: 50px;
+}
+.foto-2 {
+    margin-top: 50px;
+}
+.foto-3 {
+    margin-left: 800px;
+    margin-top: 50px;
+}
+.foto-4 {
+    margin-top: 50px;
+}
+
+
